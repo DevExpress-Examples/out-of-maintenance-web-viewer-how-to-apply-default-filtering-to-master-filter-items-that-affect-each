@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [WebForm1.aspx](./CS/WebViewer_MutualDefaultFiltering/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/WebViewer_MutualDefaultFiltering/WebForm1.aspx))
-* [WebForm1.aspx.cs](./CS/WebViewer_MutualDefaultFiltering/WebForm1.aspx.cs) (VB: [WebForm1.aspx](./VB/WebViewer_MutualDefaultFiltering/WebForm1.aspx))
+* [WebForm1.aspx.cs](./CS/WebViewer_MutualDefaultFiltering/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/WebViewer_MutualDefaultFiltering/WebForm1.aspx.vb))
 <!-- default file list end -->
 # Web Viewer - How to apply default filtering to master filter items that affect each other
 
